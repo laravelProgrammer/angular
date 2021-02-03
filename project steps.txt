@@ -1,0 +1,7 @@
+install anuglar app;
+
+ng g m admin --routing (this is for admin)
+ng g c admin/admin --flat (admin may amdin ka default component -- flat mean without any folder)
+
+ng g m default -- routing (this is for website)
+ng g c default/default --flat ( default may default ka default component -- flat mean without any folder)
